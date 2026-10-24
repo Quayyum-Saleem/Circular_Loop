@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CircularLoop ♻️🌱
 > **"Give Every Product Another Life."**  
 > An AI-assisted circular-economy platform that helps communities and campuses extend the useful life of products through reuse, repair, donation, and responsible recycling, with verifiable environmental impact tracking and gamification rewards.
@@ -361,6 +362,10 @@ To maintain data integrity and avoid greenwashing, all environmental calculation
 
 ## 🌿 License & Credits
 Built for sustainability hackathons. Dedicated to promoting circular economies, reducing electronic and consumer waste, and empowering campus communities.
+=======
+# Circular_Loop
+Reuse ,Recycle and Donation
+>>>>>>> 939051d246d42ee141b41bb4ff916404b1986d42
 =======
 # Circular_Loop
 Reuse ,Recycle and Donation
